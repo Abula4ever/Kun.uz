@@ -1,0 +1,193 @@
+/* telefon uchun */
+@media screen and (max-width: 576px){
+
+    .container{
+        width: 100%;
+    }
+
+    header {
+        padding: 10px;
+    }
+
+    nav{
+        justify-content: space-between;
+    }
+
+    .menu{
+        text-align: end;
+        flex-direction: column;
+    }
+
+    .menu {
+        width: 100%;
+    }
+
+    .search{
+        display: none;
+    }
+
+    .nav2{
+        display: none;
+    }
+
+    .box-9{
+        width: 100%;
+    }
+
+    .box-9 .box-6{
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .box-9 .box-6 h1{
+        font-size: 20px;
+    }
+
+    .box-9 a .box-2{
+        width: 100%;
+        padding: 10px;
+    }
+
+    .box-9 a .box-4{
+        width: 100%;
+    }
+
+    header .box-9 .main{
+        display: block;
+        padding: 10px;
+    }
+
+    .main .box-4{
+        width: 100%;       
+        margin: 0;
+    }
+
+    header .box-3   {
+        width: 100%;
+    }
+
+    section .box-12{
+        padding: 0 20px;
+    }
+
+    section .main2{
+        display: block;
+        padding: 20px;
+    }
+
+    section .main2 .box-6{
+        position: relative;
+    }
+
+    section .main2 .mini{
+      display: none;
+    }
+
+    section .main2 .box-6{
+        width: 100%;
+    }
+
+    section .main2 .box-3{
+        width: 100%;
+        margin: 0;
+    }
+
+    .blog2 .main02{
+        display: block;
+        padding: 20px;
+    }
+
+    .blog2 .main02 .box-3{
+        width: 100%;
+        height: 350px;
+        margin: 20px 0;
+    }
+
+    .blog2 .main02 .box-3 img{
+        width: 100%;
+    }
+
+    .blog3 .main03 a{
+        display: block;
+        padding: 10px;
+    }
+
+    .blog3 .main03 a .n1{
+        height: 500px;
+
+    }
+
+    .blog3 .main03 a .n1 img{
+        width: 100%;
+        box-shadow: none;
+    }
+
+    .blog3 .main03 a .n2{
+        margin: 50px 0;
+        padding: 0;
+    }
+
+    .blog3 .main03 .box-6{
+        width: 100%;
+    }
+
+    .blog4 .main04{
+        display: block;
+        padding: 10px;
+    }
+
+    .blog4 .main04 .box-4{
+        width: 100%;
+    }
+
+    .blog5 .main05{
+        display: block;
+        padding: 0 20px;
+    }
+
+    .blog5 .main05 .box-3{
+        width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .blog6 .header{
+        display: block;
+        margin: 0;
+        padding: 0;
+    } 
+
+    .blog6 .header .box-6{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .blog6 .main06{
+        display: block;
+        padding: 10px;
+    }
+
+    .blog6 .main06 .box-6{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .blog6 .main6-2{
+        display: block;
+        padding: 10px;
+    }
+
+    .blog6 .main6-2 .box-3{
+        width: 100%;
+        margin: 20px 0;
+    }
+}
+/* planshet uchun */
+@media (min-width: 577px) and (max-width: 992px){
+
+}
+/* notebook uchun */
+@media (min-width: 993px) and (max-width:1440px) {
+
+}
